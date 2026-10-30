@@ -12,7 +12,7 @@
 | ❄️ Fan control         | A few adjustments are still needed              | ⚠️            |
 | 📷 Camera (CSI CAM1/2) | We do not have the necessary hardware to test this feature | ❌            |
 | 🎆 LT9611 DSI2HDMI     | Works, and so does hotplugging                  | ✅            |
-| 🎆 GPU                 | Works, but may not be binded correctly when applying driver | ⚠️            |
+| 🎆 GPU                 |                                                 | ✅            |
 | 🪵 USB C               |                                                 | ✅            |
 | 🪵 USB 2.0             |                                                 | ✅            |
 | 🪵 2x USB 3.0          |                                                 | ✅            |
@@ -38,6 +38,6 @@
 | ⚡ Weak PSU detection  | Soon                                            | ❌            |
 | ⚡ EL2 Booting         | Uses QHEE Secure Launch                         | ✅            |
 | ⚡ UEFI Boot Menu      |                                                 | ✅            |
-| ⚡ UEFI Setup Menu     | WIP                                             | ⚠️            |
+| ⚡ UEFI Setup Menu     |                                                 | ✅            |
 | 🪟 Windows boot        | Uses QHEE Secure Launch                         | ✅            |
 | 🐧 Linux boot          | Soon                                            | ❌            |
